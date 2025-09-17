@@ -1,24 +1,14 @@
 # grammarBot
-This is a simple grammar bot using Python and Chatterbot
-
  ## Overview
 The grammarBot software is a simple bot that answers and explains grammar questions in different languages.
 
-## What the Document app does
+## What the grammarBot does
 
-- Linguistic Features
-- POS Tagging
-- Morphology
-- Lemmatization
-- Dependency Parse
-- Named Entities
-- Entity Linking
-- Tokenization
-- Merging & Splitting
-- Sentence Segmentation
-- Mappings & Exceptions
-- Vectors & Similarity
-- Language Data 
+- Answer grammar-related questions
+- Corrects user grammar
+- Answer time-related questions
+- Answer Math-related questions
+
 
 
 
@@ -67,7 +57,7 @@ This application is implemented with:
        
   ### Running the project
   #### To run the project:
-           python3 run.py
+           python3 app.py
 
 ## Using the project
    - Project structure
